@@ -1,6 +1,6 @@
 {
     "port": "5000",
-    "mongoURI": "mongodb://localhost:27017/PettersonTest",
+    "mongoURI": "mongodb+srv://vitalykostak:N55yw4bTevWmRVNd@cluster0.wm9ki.mongodb.net/peterson_apps?retryWrites=true&w=majority",
     "jwt": "this is secret",
     "front-endURI": "http://localhost:3000"
 }
